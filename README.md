@@ -1,3 +1,4 @@
+![CI](https://github.com/wedgo903/devops-python-project/actions/workflows/ci.yml/badge.svg)
 # DevOps Python Project
 
 ## Opis
